@@ -1,0 +1,18 @@
+test_educational_trace (tests.test_ecc.CurveTests.test_educational_trace) ... ok
+test_enumeration_matches_brute_force (tests.test_ecc.CurveTests.test_enumeration_matches_brute_force) ... ok
+test_every_addition_against_geometric_oracle (tests.test_ecc.CurveTests.test_every_addition_against_geometric_oracle) ... ok
+test_group_laws_exhaustive (tests.test_ecc.CurveTests.test_group_laws_exhaustive) ... ok
+test_lagrange_and_hasse_checks (tests.test_ecc.CurveTests.test_lagrange_and_hasse_checks) ... ok
+test_large_scalar_and_distributivity (tests.test_ecc.CurveTests.test_large_scalar_and_distributivity) ... ok
+test_required_examples (tests.test_ecc.CurveTests.test_required_examples) ... ok
+test_scalar_matches_repeated_addition (tests.test_ecc.CurveTests.test_scalar_matches_repeated_addition) ... ok
+test_validation_and_normalization (tests.test_ecc.CurveTests.test_validation_and_normalization) ... ok
+test_input_parsing (tests.test_ecc.FieldTests.test_input_parsing) ... ok
+test_invalid_modulus_and_types (tests.test_ecc.FieldTests.test_invalid_modulus_and_types) ... ok
+test_inverse_exhaustive (tests.test_ecc.FieldTests.test_inverse_exhaustive) ... ok
+test_primality_matches_sieve (tests.test_ecc.FieldTests.test_primality_matches_sieve) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.372s
+
+OK

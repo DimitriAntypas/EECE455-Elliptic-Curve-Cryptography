@@ -1,0 +1,28 @@
+test_educational_trace (test_ecc.CurveTests.test_educational_trace) ... ok
+test_enumeration_matches_brute_force (test_ecc.CurveTests.test_enumeration_matches_brute_force) ... ok
+test_every_addition_against_geometric_oracle (test_ecc.CurveTests.test_every_addition_against_geometric_oracle) ... ok
+test_group_laws_exhaustive (test_ecc.CurveTests.test_group_laws_exhaustive) ... ok
+test_lagrange_and_hasse_checks (test_ecc.CurveTests.test_lagrange_and_hasse_checks) ... ok
+test_large_scalar_and_distributivity (test_ecc.CurveTests.test_large_scalar_and_distributivity) ... ok
+test_required_examples (test_ecc.CurveTests.test_required_examples) ... ok
+test_scalar_matches_repeated_addition (test_ecc.CurveTests.test_scalar_matches_repeated_addition) ... ok
+test_validation_and_normalization (test_ecc.CurveTests.test_validation_and_normalization) ... ok
+test_input_parsing (test_ecc.FieldTests.test_input_parsing) ... ok
+test_invalid_modulus_and_types (test_ecc.FieldTests.test_invalid_modulus_and_types) ... ok
+test_inverse_exhaustive (test_ecc.FieldTests.test_inverse_exhaustive) ... ok
+test_primality_matches_sieve (test_ecc.FieldTests.test_primality_matches_sieve) ... ok
+test_addition_buttons_and_error_recovery (test_gui.GuiTests.test_addition_buttons_and_error_recovery) ... ok
+test_apply_invalid_curve_is_transactional (test_gui.GuiTests.test_apply_invalid_curve_is_transactional) ... ok
+test_controls_fit_minimum_and_default_window (test_gui.GuiTests.test_controls_fit_minimum_and_default_window) ... ok
+test_default_curve_and_list (test_gui.GuiTests.test_default_curve_and_list) ... ok
+test_largest_gui_field (test_gui.GuiTests.test_largest_gui_field) ... ok
+test_normalization_and_example_switch_clear_state (test_gui.GuiTests.test_normalization_and_example_switch_clear_state) ... ok
+test_point_selection_and_csv (test_gui.GuiTests.test_point_selection_and_csv) ... ok
+test_scalar_trace_controls (test_gui.GuiTests.test_scalar_trace_controls) ... ok
+test_vertical_tangent (test_gui.GuiTests.test_vertical_tangent) ... ok
+test_zero_negative_infinity_and_scalar_validation (test_gui.GuiTests.test_zero_negative_infinity_and_scalar_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 1.244s
+
+OK
